@@ -1,0 +1,192 @@
+Ctrl + B - to close the primary sidebar
+
+Nav.navbar + tab - gives a tag with nav and navbar in it as a class
+. - div
+.blabla - div with class=blabla
+
+a# - a tag with an id 
+# - id
+
+Shift + alt + down arrow - copies and pastes the line of code
+
+undraw - for animated images - illustrations
+font awesome 
+fonts google fonts
+pexes - for images
+
+Color pallet:
+
+1.#9AD9E5
+2.#83E8E0
+
+option 1:
+#BFFCF9
+#61CADC
+#AABFFF
+
+option 2:
+#D6FF92
+#434939
+#A8AE9C
+#00EFFF
+#00B6D3
+
+Option 3:
+#D6FF92
+#F6EA7E
+#FFD57B
+#FFBF86
+
+Option 4:
+
+#95B0B4
+#87C4BF
+#84D7BA
+#99E7A7
+#C2F28C
+#F9F871
+
+Option 5:
+
+#D16BA5
+#C297EC
+#90C6FF
+#41F2FF
+
+Option 6: color green
+
+#00C9AD
+#C3FCF1
+
+Option 7: color Lilac
+
+#E8DFEF - light
+#866D9C - dark
+#8371fd - neon
+
+BG Colors:
+
+#BBA5B0 - 1 - no 
+
+
+Main colors
+blue - #459dfb - image
+ 
+ aquamarine-ish:
+ #0bcdb3db
+
+background-image: linear-gradient(
+      to right,
+      #b1f8ed 0%,
+      #8cd6cc 0%,
+      #78e0d2 21%,
+      #35cdb9 52%,
+      #0bcdb3 78%,
+      #038775 100%)
+
+greenssss:
+ #C3FCF1 
+ #00C9AD      
+
+ Purple - blue gradient:
+ #bf43f8 
+ #73e0f9
+
+purple-purple:
+#d5a4fa
+#a84ef2 
+
+light green : #14F2E0
+blue green : #41C8E5
+darker blur : #6e9eeb
+violet : #9a75f0
+purple : #c74bf6
+pink : #f320fa
+
+-------------------------------------------------------------------------------------------
+
+border-radius: 30px;
+    border-color: #459dfb ;
+    border-style: inset;
+    border-width: 3px;
+
+.main__btn {
+    /font-size: 1rem;
+    /background-image: linear-gradient(to top, #d5a4fa 0%, #a84ef2 100%);
+    /padding: 14px 32px;
+    /border: none;
+    /border-radius: 4px;
+    /color: #fff;
+    /margin-top: 2rem;
+    /cursor: pointer;
+    position: relative;
+    transition: all 0.35s;
+    /outline: none;
+  }
+
+.navbar__btn1 {
+    /display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    /padding: 10px 20px;
+    /height: 100%;
+    /width: 100%;
+    /border: none;
+    /outline: none;
+    /border-radius: 4px;
+    /background : #b465f1;
+    /color: #fff;
+}
+
+.main__btn a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .navbar__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+My code:
+.main__btn1 {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+.main__btn1 a {
+  font-size: 1rem;
+  cursor: pointer;
+  background : #b465f1;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  padding: 14px 32px;
+  margin-top: 10rem;
+  position: relative;
+  transition: all 0.35s;
+}
+
+-----------------------
+  .row h2{
+    font-size: 4rem;
+    background-color: #ff8177;
+    background-image: linear-gradient(to bottom, #C3FCF1 0%, #00C9AD 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    padding-bottom: 30px;
+  }
+  
